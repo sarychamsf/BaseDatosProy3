@@ -63,6 +63,7 @@
                                     <a class="btn btn-primary btn-lg" href="ServicioC?action=create" role="button">C</a>
                                     <a class="btn btn-primary btn-lg" href="ServicioC?action=update" role="button">U</a>
                                     <a class="btn btn-primary btn-lg" href="ServicioC?action=delete" role="button">D</a>
+                                    <a class="btn btn-primary btn-lg" href="" role="button">Reporte</a>
                                 </p>
                             </div>
                         
