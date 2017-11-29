@@ -160,6 +160,10 @@
         <servlet-name>TerminadoM</servlet-name>
         <url-pattern>/TerminadoM</url-pattern>
     </servlet-mapping>
+        <servlet-mapping>
+        <servlet-name>ServicioReporte</servlet-name>
+        <url-pattern>/ServicioReporte</url-pattern>
+    </servlet-mapping>
     <session-config>
         <session-timeout>
             30
