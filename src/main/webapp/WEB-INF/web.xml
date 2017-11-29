@@ -159,6 +159,7 @@
     <servlet-mapping>
         <servlet-name>TerminadoM</servlet-name>
         <url-pattern>/TerminadoM</url-pattern>
+    </servlet-mapping>
     <session-config>
         <session-timeout>
             30
